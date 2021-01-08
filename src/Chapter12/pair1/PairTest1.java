@@ -1,5 +1,7 @@
-package pair1;
-import pair1.Pair;
+package Chapter12.pair1;
+
+import Chapter12.Pair;
+
 /**
  * @version 1.01 2018-09-01
  * @author dz

@@ -1,6 +1,6 @@
-package pair2;
-import pair1.Pair;
+package Chapter12.pair2;
 
+import Chapter12.Pair;
 import java.util.*;
 
 /**

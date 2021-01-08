@@ -1,4 +1,4 @@
-package pair1;
+package Chapter12;
 
 public class Pair<T> {
     private T first;
